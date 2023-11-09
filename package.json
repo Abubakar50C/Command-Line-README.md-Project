@@ -1,0 +1,11 @@
+{
+  "name": "command-line-readme.md-project",
+  "version": "1.0.0",
+  "description": "App that creates a readme for user from the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
