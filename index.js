@@ -33,6 +33,7 @@ const questions = [
         console.log('Readme file successfully created')
        
       });
+      console.log('Your new readme has been created!')
   }
   
 )
@@ -68,7 +69,9 @@ function writeToFile(title, description, installation) {
 
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    questions();
+}
 
 // Function call to initialize app
 init();
